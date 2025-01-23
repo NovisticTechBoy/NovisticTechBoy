@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on more front-end projects
 - 📫 Reach me here or on Whatsapp +2348058455534
-- 😄 Please, any susggestions would be received..
+- 😄 Please, any suggestions would be received..
 - ⚡ Being the best I can be is the best thing I can do..
 - TONIC...
 
