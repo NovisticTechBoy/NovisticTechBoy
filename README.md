@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @NovisticTechBoy
+- 👋  @NovisticTechBoy 👋
 - 🌱 ReactJS and Java...endlessly growing...
-- 💞️ I’m looking to collaborate on more front-end projects
+- 💞️ front-end projects?....i'm in
+- similiar projects?...i'm in
 - 📫 Hotline?...-->> +2348058455534...
 - https://x.com/HizNedum...
-- 😄 Please, any suggestions would be received..
-- ⚡ Being the best I can be is the best thing I can do..
-- TONIC...
+- 😄Being the best I can be is the best thing I can do..
+- ⚡currently building SWIFT...your next big thing..
+- TEMPLE...
 
 <!---
 NovisticTechBoy/NovisticTechBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
